@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamdubey_16" target="blank"><img src="https://img.shields.io/twitter/follow/shivamdubey_16?logo=twitter&style=for-the-badge" alt="shivamdubey_16" /></a> </p>
 
-- 💬 Ask me about **HTML,CSS,JavaScript**
+- 💬 Ask me about **HTML,CSS,JavaScript,React**
 
 - 📫 How to reach me **dshivam227@gmail.com**
 
